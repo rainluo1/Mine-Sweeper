@@ -1,2 +1,2 @@
 # Mine-Sweeper
-Mine Sweeper implemented using c++
+Mine Sweeper clone implemented using c++.
